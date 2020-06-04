@@ -9,8 +9,6 @@ git clone https://github.com/chxuan/change-colorscheme
 git clone https://github.com/chxuan/vim-buffer
 git clone https://github.com/jiangmiao/auto-pairs
 git clone https://github.com/scrooloose/nerdtree
-git clone https://github.com/tiagofumo/vim-nerdtree-syntax-highlight
-git clone https://github.com/Xuyuanp/nerdtree-git-plugin
 git clone https://github.com/octol/vim-cpp-enhanced-highlight
 git clone https://github.com/vim-airline/vim-airline
 git clone https://github.com/vim-airline/vim-airline-themes

@@ -160,20 +160,6 @@ let g:NERDTreeHightCursorline=1 "高亮当前文件
 let g:NERDTreeShowHidden=0 "显示隐藏文件
 let g:NERDTreeMinimalUI=0 "不显示'Bookmarks' label 'Press ? for help'
 
-" nerdtree-git-plugin
-let g:NERDTreeIndicatorMapCustom = {
-            \ "Modified"  : "✹",
-            \ "Staged"    : "✚",
-            \ "Untracked" : "✭",
-            \ "Renamed"   : "➜",
-            \ "Unmerged"  : "═",
-            \ "Deleted"   : "✖",
-            \ "Dirty"     : "✗",
-            \ "Clean"     : "✔︎",
-            \ 'Ignored'   : '☒',
-            \ "Unknown"   : "?"
-            \ }
-
 " vim-smooth-scroll
 noremap <silent> <c-u> :call smooth_scroll#up(&scroll, 0, 2)<CR>
 noremap <silent> <c-d> :call smooth_scroll#down(&scroll, 0, 2)<CR>
