@@ -167,6 +167,8 @@ noremap <silent> <c-b> :call smooth_scroll#up(&scroll*2, 0, 4)<CR>
 noremap <silent> <c-f> :call smooth_scroll#down(&scroll*2, 0, 4)<CR>
 
 noremap <F3> :%s/\s\+$//<cr>
+noremap <F8> :set paste<cr>
+noremap <F7> :set nopaste<cr>
 
 "寻找全局配置文件
 let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/cpp/ycm/.ycm_extra_conf.py'
