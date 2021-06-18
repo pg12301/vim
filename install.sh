@@ -23,4 +23,4 @@ git clone git://github.com/preservim/tagbar.git
 git clone git://github.com/luochen1990/rainbow.git
 cd -
 cp -a init.vim $HOME/.config/nvim/init.vim
-cp -a colors $HOME.config/nvim
+cp -a colors $HOME/.config/nvim
