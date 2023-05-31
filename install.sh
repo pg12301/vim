@@ -22,6 +22,7 @@ git clone https://github.com/jayli/vim-dictionary
 git clone https://github.com/preservim/tagbar
 git clone https://github.com/luochen1990/rainbow
 git clone https://github.com/junegunn/fzf.vim
+git clone https://github.com/neoclide/coc.nvim.git
 cd -
 cp -a init.vim $HOME/.config/nvim/init.vim
 cp -a colors $HOME/.config/nvim
